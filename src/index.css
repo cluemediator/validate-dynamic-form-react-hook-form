@@ -1,0 +1,42 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin: 15px 0 5px;
+  font-size: 14px;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  margin: 0 10px 0 0;
+  border-radius: 5px;
+  border: 1px solid #b3b3b3;
+}
+
+.select-input {
+  width: 322px;
+  font-size: 13px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 13px;
+  color: red;
+}
+
+button {
+  cursor: pointer;
+  padding: 7px 10px;
+  width: 100px;
+  margin-right: 10px;
+  /* margin: 15px 0; */
+}
